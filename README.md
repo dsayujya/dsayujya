@@ -9,7 +9,7 @@
 
 ### 🛰️ CONNECT
 
-* [**GitHub**]((https://github.com/dsayujya))
+* <a>[**GitHub**](("https://github.com/dsayujya"))</a>
 
 
 ---
