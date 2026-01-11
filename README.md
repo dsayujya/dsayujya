@@ -9,7 +9,9 @@
 
 ### 🛰️ CONNECT
 
-* <a>[**GitHub**](("https://github.com/dsayujya"))</a>
+* [GitHub](github.com/dsayujya)
+* [LinkedIn](www.linkedin.com/in/sayujya-deshpande-34793a2a4)
+
 
 
 ---
