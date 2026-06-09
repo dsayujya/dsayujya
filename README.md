@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sayujya Deshpande</h1>
+<h1 align="center">Hi, I'm Sayujya Deshpande</h1>
 <h3 align="center">I'm a passionate CS major currently focusing on upgrading my skills and working on a few projects of my own. Lets connect !</h3>
 
-- 🔭 I’m currently working on **AI-based Learning Path Generator**
+-  I’m currently working on **AI-based Learning Path Generator**
 
-- 🌱 I’m currently learning **Full stack Development, DevOps, Server Side Programming**
+-  I’m currently learning **Full stack Development, DevOps, Server Side Programming**
 
-- 📫 How to reach me **deshpandesayujya1008@gmail.com**
+-  How to reach me **deshpandesayujya1008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
