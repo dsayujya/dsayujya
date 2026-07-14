@@ -3,7 +3,7 @@
 
 -  I’m currently working on **AI-based Learning Path Generator**
 
--  I’m currently learning **Full stack Development, DevOps, Server Side Programming**
+-  I’m currently learning **Full stack Development, DevOps, Software Engineering**
 
 -  How to reach me **deshpandesayujya1008@gmail.com**
 
